@@ -1,0 +1,2 @@
+/mnt/d/LOWO/C++Learn/C++Start/build/CMakeFiles/edit_cache.dir
+/mnt/d/LOWO/C++Learn/C++Start/build/CMakeFiles/rebuild_cache.dir
