@@ -19,7 +19,5 @@ int main(int argc, char *argv[])
     // printf("%010.2f        %-10.2f\n%10.2f %10.2f\n", fs, fs, fs, fs);
     // printf("%lld %s %c %d\n", s, st, c, i);
     
-    
-    
     return 0;
 }
